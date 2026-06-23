@@ -81,6 +81,10 @@ Does the human texture breathe?
 
 If the answer to either one is no, the draft is not finished.
 
+## Test the Method
+
+Use the [Dual Lane Test Set](DUAL_LANE_TEST_SET.md) to practice diagnosing whether a draft failed in the Machine Lane, the Human Lane, or both.
+
 ## Use Cases
 
 Dual Lane Writing Method can be used anywhere AI-assisted writing needs both structure and human readability.
