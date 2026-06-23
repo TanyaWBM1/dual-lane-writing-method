@@ -1,0 +1,19 @@
+# Local tooling / harness
+.claude/
+
+# Environment & secrets
+.env
+.env.*
+
+# Archives
+*.zip
+
+# Caches, temp, logs
+*.log
+*.tmp
+*.temp
+.cache/
+__pycache__/
+node_modules/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Dual Lane Writing Method"
+message: "If you use or reference this method, please cite it."
+type: software
+authors:
+  - family-names: "Lawson"
+    given-names: "Tanya M."
+repository-code: "https://github.com/TanyaWBM1/dual-lane-writing-method"
+abstract: "A public writing method for combining machine structure and human texture in AI-assisted writing."
+keywords:
+  - writing
+  - AI-assisted writing
+  - rhetoric
+  - editing
+  - professional writing
+  - human-readable writing
+license: "CC-BY-4.0"
