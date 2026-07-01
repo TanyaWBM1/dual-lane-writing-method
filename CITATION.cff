@@ -6,6 +6,8 @@ authors:
   - family-names: "Lawson"
     given-names: "Tanya M."
 repository-code: "https://github.com/TanyaWBM1/dual-lane-writing-method"
+version: "1.0.2"
+date-released: "2026-07-01"
 abstract: "A public writing method for combining machine structure and human texture in AI-assisted writing."
 keywords:
   - writing

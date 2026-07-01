@@ -4,6 +4,8 @@ A public writing method created by **Tanya M. Lawson** for combining machine str
 
 **Core line:** The structure must hold. The human texture must breathe.
 
+**Start here:** [Canonical definition](DUAL_LANE.md) · [Worked examples](EXAMPLES.md) · [Practice test set](DUAL_LANE_TEST_SET.md)
+
 ## Creator
 
 Dual Lane Writing Method was created by **Tanya M. Lawson**.
@@ -126,13 +128,31 @@ Why it works:
 * The reader knows what to do next.
 * The writing sounds human without pretending.
 
-## Public / Private Boundary
+## Relationship to Human Texture
 
-Dual Lane Writing Method is the public method.
+Dual Lane Writing Method is a complete public method. You do not need anything else to learn it, use it, or teach it.
 
-Human Texture Writing Engine is Tanya M. Lawson's private implementation system for deeper writing review, tone control, sentence structure, and workflow discipline.
+It grew out of Human Texture Writing Engine, Tanya M. Lawson's private professional system for deeper writing review, tone control, sentence structure, and workflow discipline. Dual Lane teaches the public method. Human Texture operationalizes the advanced engine.
 
 This repo explains the public concept. It does not publish the private engine.
+
+## FAQ
+
+**Is this a way to make AI writing pass AI detectors?**
+
+No. Dual Lane is not a humanizer, a detector-evasion method, or a trick for disguising machine writing. The goal is not to hide AI use. The goal is to make writing clearer, more specific, more grounded, and easier to trust — whoever or whatever drafted it. Writing that fakes humanness fails the method (see the Fake Texture failure pattern in the [canonical definition](DUAL_LANE.md)).
+
+**Do I need Human Texture Writing Engine to use this?**
+
+No. Dual Lane is complete on its own. Human Texture is a separate, private professional system by the same creator.
+
+**Can I teach or adapt this method?**
+
+Yes, with attribution: "Dual Lane Writing Method, created by Tanya M. Lawson." See [LICENSE](LICENSE) (CC BY 4.0).
+
+**What is Dual Lane not for?**
+
+It does not check facts, replace sources or editing, or support legal or ownership claims. It tells you whether a draft holds together and reads as human — not whether the draft is true.
 
 ## Citation
 
@@ -146,4 +166,8 @@ Dual Lane Writing Method, created by Tanya M. Lawson.
 
 ## License
 
-See LICENSE.
+Dual Lane Writing Method © Tanya M. Lawson.
+
+This method may be shared and adapted with attribution under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). Attribution should include: "Dual Lane Writing Method, created by Tanya M. Lawson."
+
+See [LICENSE](LICENSE) for the full license text.
